@@ -1,0 +1,25 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "Just a practice node application",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "instagram-node": "^0.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumaranish8888/Node-App.git"
+  },
+  "author": "Anish Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumaranish8888/Node-App/issues"
+  },
+  "homepage": "https://github.com/kumaranish8888/Node-App#readme"
+}
